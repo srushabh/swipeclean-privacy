@@ -4,14 +4,15 @@ title: SwipeClean Privacy Policy
 
 # SwipeClean Privacy Policy
 
-**Effective date:** 19 November 2026
+**Effective date:** 20 November 2026
 **Contact:** mindlogicsolutions@gmail.com
 
 This policy explains how the SwipeClean app ("SwipeClean", "the app") handles information. SwipeClean is a photo and video organiser for Android and iOS.
 
 ## Summary
 
-- **Your photos and videos never leave your phone.** SwipeClean has no account, no server, no cloud storage and no analytics.
+- **Your photos and videos never leave your phone.** SwipeClean has no server, no cloud storage and no analytics.
+- **Signing in with Apple or Google is optional.** Your name and email stay on your phone; SwipeClean does not send them anywhere.
 - The free edition shows ads from **Google AdMob**. Google's advertising software processes some device and usage information to show and measure ads.
 - **SwipeClean Pro** is an optional one-time purchase that removes all ads. Payment is handled by Google Play or the Apple App Store.
 
@@ -29,13 +30,20 @@ Everything SwipeClean stores is kept **only on your phone**, in the app's own st
 - your settings;
 - the number of items you have deleted with SwipeClean;
 - for the free edition, three numbers used to space out ads;
-- whether this device has a verified Pro purchase.
+- whether this device has a verified Pro purchase;
+- if you signed in: the provider (Apple or Google), its user ID for you, your name and your email, kept in the phone's secure storage (iOS Keychain / Android Keystore).
 
 Uninstalling the app removes all of it. SwipeClean cannot see or restore it afterwards.
 
 ## Information SwipeClean sends
 
 **SwipeClean itself does not send any of your information anywhere.** Your photos, videos, file names, dates and decisions are never transmitted, including to the advertising and payment providers below.
+
+### Optional sign-in: Sign in with Apple and Google Sign-In
+
+Signing in is optional and only shows your name in the app; it unlocks nothing and syncs nothing. The sign-in happens between you and Apple or Google, under their own privacy policies ([Apple](https://www.apple.com/legal/privacy/), [Google](https://policies.google.com/privacy)). SwipeClean receives your name, email address and a user ID from the provider, keeps them only on your phone and never sends them to any server. With Sign in with Apple you can hide your email address.
+
+**Sign out** or **Remove sign-in from this phone** (Settings → Account) deletes them from your phone. Remove also revokes SwipeClean's access to your Google Account. For Apple, you can stop using your Apple Account with SwipeClean in iOS Settings → your name → Sign in with Apple.
 
 ### Advertising (free edition): Google AdMob
 
