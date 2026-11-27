@@ -4,7 +4,7 @@ title: SwipeClean Privacy Policy
 
 # SwipeClean Privacy Policy
 
-**Effective date:** 20 November 2026
+**Effective date:** 27 November 2026
 **Contact:** mindlogicsolutions@gmail.com
 
 This policy explains how the SwipeClean app ("SwipeClean", "the app") handles information. SwipeClean is a photo and video organiser for Android and iOS.
@@ -47,7 +47,7 @@ Signing in is optional and only shows your name in the app; it unlocks nothing a
 
 ### Advertising (free edition): Google AdMob
 
-The free edition uses the Google Mobile Ads SDK and Google's User Messaging Platform (for consent). After you have made 20 swipe decisions, SwipeClean starts the ad software; where the law requires it (for example in the EEA, UK and Switzerland), Google's consent form is shown first.
+The free edition uses the Google Mobile Ads SDK and Google's User Messaging Platform (for consent). After you have made 10 swipe decisions, SwipeClean starts the ad software; where the law requires it (for example in the EEA, UK and Switzerland), Google's consent form is shown first.
 
 According to Google, its SDK automatically collects and shares, for advertising, analytics and fraud prevention:
 
